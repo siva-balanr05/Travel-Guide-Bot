@@ -3,7 +3,7 @@
 TravelBuddy is a multimodal AI chatbot designed to make travel planning smarter and more interactive.
 It can chat, analyze documents, and understand images to provide helpful travel insights.
 
-✨ Features
+✨ **Features**
 
 🧠 LLM-powered Chat — Ask anything about destinations, hotels, or itineraries.
 
@@ -17,13 +17,13 @@ It can chat, analyze documents, and understand images to provide helpful travel 
 
 🎨 User-Friendly Interface — Built with Gradio Blocks.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Text LLM: HuggingFaceTB/SmolLM3-3B
 
 Vision-Language Model: Qwen/Qwen2-VL-2B-Instruct
 
-Frameworks & Libraries:
+**Frameworks & Libraries:**
 
 Gradio (UI)
 
@@ -41,9 +41,10 @@ Pillow (image processing)
 
 🚀 How to Run
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/your-username/travelbuddy.git
 cd travelbuddy
+
 
 
