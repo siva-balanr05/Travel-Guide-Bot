@@ -45,7 +45,8 @@ Pillow (image processing)
 
 git clone https://github.com/siva-balanr05/travelbuddy.git
 
-cd travelbuddy
+
+
 
 
 
