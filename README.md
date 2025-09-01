@@ -43,8 +43,10 @@ Pillow (image processing)
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/travelbuddy.git
+git clone https://github.com/siva-balanr05/travelbuddy.git
+
 cd travelbuddy
+
 
 
 
