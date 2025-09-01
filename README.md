@@ -1,4 +1,4 @@
-🌍 TravelBuddy — AI-Powered Travel Assistant
+🌍 **TravelBuddy — AI-Powered Travel Assistant**
 
 TravelBuddy is a multimodal AI chatbot designed to make travel planning smarter and more interactive.
 It can chat, analyze documents, and understand images to provide helpful travel insights.
@@ -45,4 +45,5 @@ Clone the repository:
 
 git clone https://github.com/your-username/travelbuddy.git
 cd travelbuddy
+
 
